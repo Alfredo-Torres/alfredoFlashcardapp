@@ -9,8 +9,7 @@
 
 ### App Walk-though
 
-<img src="" width=200><br>
-
+https://github.com/Alfredo-Torres/alfredoFlashcardapp/raw/main/flashcardappalfredo.gif
 
 
 ## Required
